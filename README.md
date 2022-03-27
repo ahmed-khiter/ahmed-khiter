@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+
+- 🌱 I’m currently learning DevOps 
+- 🔭 I’m currently working as Full-Stack web developer
+- 📫 Reach me on [Linkedin](https://www.linkedin.com/in/ahmed-khaled-581051187/).
+
+
 <img src="https://github-readme-stats.vercel.app/api?username=ahmed-khiter&show_icons=true" />
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmed-khiter" />
